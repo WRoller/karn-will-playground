@@ -1,6 +1,6 @@
-# Test note
+# Test note 2
 
-This is a test file to verify GitHub collaboration workflow.
+Replacement test file for GitHub collaboration workflow.
 
 - Created: 2026-05-25
 - Purpose: Confirm push/pull between collaborators works
